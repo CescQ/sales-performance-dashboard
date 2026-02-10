@@ -1,0 +1,11 @@
+ProductID,Product,Category,Price
+1,Widget A,Gadgets,19.99
+2,Widget B,Gadgets,29.99
+3,Gizmo A,Electronics,49.99
+4,Gizmo B,Electronics,59.99
+5,Doohickey A,Tools,9.99
+6,Doohickey B,Tools,14.99
+7,Thingamajig A,Tools,24.99
+8,Thingamajig B,Tools,34.99
+9,Contraption A,Gadgets,39.99
+10,Contraption B,Electronics,69.99
